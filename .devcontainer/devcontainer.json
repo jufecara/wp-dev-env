@@ -10,7 +10,13 @@
                 "ms-azuretools.vscode-docker",
                 "esbenp.prettier-vscode",
                 "dbaeumer.vscode-eslint",
-                "bmewburn.vscode-intelephense-client"
+                "bmewburn.vscode-intelephense-client",
+                "wmaurer.change-case",
+                "streetsidesoftware.code-spell-checker",
+                "editorconfig.editor",
+                "firsttris.vscode-jest-runner",
+                "xdebug.php-debug",
+                "dsznajder.es7-react-js-snippets"
             ],
             "settings": {
                 "editor.formatOnSave": true
